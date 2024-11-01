@@ -1,0 +1,32 @@
+body{
+    margin:0 px;
+    padding:0 px;
+    box-sizing: border-box;
+}
+
+.N{
+    text-align:center;
+    background-color: darkgoldenrod;
+}
+.email{
+    background-color: lemonchiffon;
+}
+.ame{
+    background-color:rgb(117, 98, 98) ;
+}
+.bri{
+    background-color: blue;
+}
+.kor{
+    background-color: rgb(0, 139, 58);
+}
+.tai{
+    background-color: gold;
+}
+.jap{
+    background-color: fuchsia;
+}
+tr th{
+    background-color: black;
+    color: white;
+}
